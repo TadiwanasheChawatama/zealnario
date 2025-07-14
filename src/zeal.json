@@ -1,0 +1,719 @@
+{
+  "collections": [
+    {
+      "id": "1",
+      "name": "Summer Collection",
+      "description": "Lightweight and breathable clothing for the warmest season",
+      "image": "homeAbout.jpg",
+      "products": [
+        1,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Vintage Wear",
+      "description": "Classic styles with a touch of nostalgia",
+      "image": "Gallery2.jpg",
+      "products": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Vintage Wear",
+      "description": "Classic styles with a touch of nostalgia",
+      "image": "Gallery2.jpg",
+      "products": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Vintage Wear",
+      "description": "Classic styles with a touch of nostalgia",
+      "image": "Gallery2.jpg",
+      "products": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "T-Shirts",
+      "description": "Casual and comfortable tops",
+      "products": [
+        1,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Tracksuits",
+      "description": "Sporty and relaxed fits",
+      "products": [
+        2,
+        9
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Hoodies",
+      "description": "Sporty and relaxed fits",
+      "products": [
+        4,
+        7
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Accessories",
+      "description": "Sporty and relaxed fits ",
+      "products": [
+        3,
+        6
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "productName": "Tye-Dye T-Shirt",
+      "productCategory": 1,
+      "productCollection": 1,
+      "productDescription": [
+        "Lorem ipsum doloaliquid, doloribus consectetur sint iste mollitia.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "Lorem ipsum dolor sit, amet consectetu."
+      ],
+      "productColour": "Tye-Dye Blue",
+      "productPrice": 99.99,
+      "sizesAvailable": [
+        "SM",
+        "MD",
+        "LG",
+        "XL"
+      ],
+      "productMaterial": "Cotton",
+      "productStyle": "Vintage",
+      "productSeason": "Summer",
+      "productVat": 0.2,
+      "productShipping": 2,
+      "productTax": 0.08,
+      "productWeight": 0.6,
+      "productImages": [
+        "Zeal2.png",
+        "Zeal6.png",
+        "Zeal1.png",
+        "Zeal6.png"
+      ],
+      "productGallery": [
+        "Gallery1.jpg",
+        "Gallery2.jpg",
+        "Gallery3.jpg",
+        "Gallery4.jpg",
+        "Featured1.jpg",
+        "Featured2.jpg",
+        "Featured4.jpg"
+      ],
+      "productInstructions": [
+        "Lorem ipsum dolor sit amet. Lorem, ipsum.",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.",
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "id": "2",
+      "productName": "Summer Tracksuit",
+      "productCategory": 2,
+      "productCollection": 2,
+      "productDescription": [
+        "Lorem ipsum doloaliquid, doloribus consectetur sint iste mollitia.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "Lorem ipsum dolor sit, amet consectetu."
+      ],
+      "productColour": "Milkot",
+      "productPrice": 49.99,
+      "sizesAvailable": [
+        "SM",
+        "MD",
+        "LG",
+        "XL"
+      ],
+      "productMaterial": "Cotton",
+      "productStyle": "Vintage",
+      "productSeason": "Summer",
+      "productVat": 0.15,
+      "productShipping": 2,
+      "productTax": 0.09,
+      "productWeight": 0.6,
+      "productImages": [
+        "Zeal1.png",
+        "Zeal2.png",
+        "Zeal6.png",
+        "Zeal6.png"
+      ],
+      "productGallery": [
+        "Gallery1.jpg",
+        "Gallery4.jpg",
+        "Gallery2.jpg",
+        "Gallery3.jpg",
+        "Featured1.jpg",
+        "Featured4.jpg",
+        "Featured2.jpg"
+      ],
+      "productInstructions": [
+        "Lorem ipsum dolor sit amet. Lorem, ipsum.",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.",
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "id": "3",
+      "productName": "Base Ball Cap",
+      "productCategory": 4,
+      "productCollection": 3,
+      "productDescription": [
+        "Lorem ipsum doloaliquid, doloribus consectetur sint iste mollitia.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "Lorem ipsum dolor sit, amet consectetu."
+      ],
+      "productColour": "Milkot",
+      "productPrice": 25.99,
+      "sizesAvailable": [
+        "SM",
+        "MD",
+        "LG",
+        "XL"
+      ],
+      "productMaterial": "Cotton",
+      "productStyle": "Vintage",
+      "productSeason": "Summer",
+      "productVat": 0.2,
+      "productShipping": 1.3,
+      "productTax": 0.08,
+      "productWeight": 0.6,
+      "productImages": [
+        "Zeal1.png",
+        "Zeal2.png",
+        "Zeal6.png",
+        "Zeal6.png"
+      ],
+      "productGallery": [
+        "Gallery1.jpg",
+        "Gallery3.jpg",
+        "Gallery4.jpg",
+        "Gallery2.jpg",
+        "Featured1.jpg",
+        "Featured2.jpg",
+        "Featured4.jpg"
+      ],
+      "productInstructions": [
+        "Lorem ipsum dolor sit amet. Lorem, ipsum.",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.",
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "id": "4",
+      "productName": "Vintage Hoodie",
+      "productCategory": 3,
+      "productCollection": 4,
+      "productDescription": [
+        "Lorem ipsum doloaliquid, doloribus consectetur sint iste mollitia.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "Lorem ipsum dolor sit, amet consectetu."
+      ],
+      "productColour": "Milkot",
+      "productPrice": 125.99,
+      "sizesAvailable": [
+        "SM",
+        "MD",
+        "LG",
+        "XL"
+      ],
+      "productMaterial": "Cotton",
+      "productStyle": "Vintage",
+      "productSeason": "Summer",
+      "productVat": 0.2,
+      "productShipping": 2,
+      "productTax": 0.08,
+      "productWeight": 0.6,
+      "productImages": [
+        "Zeal1.png",
+        "Zeal2.png",
+        "Zeal6.png",
+        "Zeal6.png"
+      ],
+      "productGallery": [
+        "Gallery1.jpg",
+        "Gallery2.jpg",
+        "Gallery3.jpg",
+        "Gallery4.jpg",
+        "Featured2.jpg",
+        "Featured1.jpg",
+        "Featured4.jpg"
+      ],
+      "productInstructions": [
+        "Lorem ipsum dolor sit amet. Lorem, ipsum.",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.",
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "id": "5",
+      "productName": "Milk Apricot Tees",
+      "productCategory": 1,
+      "productCollection": 2,
+      "productDescription": [
+        "Lorem ipsum doloaliquid, doloribus consectetur sint iste mollitia.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "Lorem ipsum dolor sit, amet consectetu."
+      ],
+      "productColour": "Milkot",
+      "productPrice": 89.99,
+      "sizesAvailable": [
+        "SM",
+        "MD",
+        "LG",
+        "XL"
+      ],
+      "productMaterial": "Cotton",
+      "productStyle": "Vintage",
+      "productSeason": "Summer",
+      "productVat": 0.2,
+      "productShipping": 2,
+      "productTax": 0.08,
+      "productWeight": 0.8,
+      "productImages": [
+        "Zeal1.png",
+        "Zeal2.png",
+        "Zeal6.png",
+        "Zeal6.png"
+      ],
+      "productGallery": [
+        "Gallery1.jpg",
+        "Gallery2.jpg",
+        "Gallery3.jpg",
+        "Gallery4.jpg",
+        "Featured2.jpg",
+        "Featured1.jpg",
+        "Featured4.jpg"
+      ],
+      "productInstructions": [
+        "Lorem ipsum dolor sit amet. Lorem, ipsum.",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.",
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "id": "6",
+      "productName": "Reowned Zealnario Cap",
+      "productCategory": 4,
+      "productCollection": 1,
+      "productDescription": [
+        "Lorem ipsum doloaliquid, doloribus consectetur sint iste mollitia.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "Lorem ipsum dolor sit, amet consectetu."
+      ],
+      "productColour": "Milkot",
+      "productPrice": 225.99,
+      "sizesAvailable": [
+        "SM",
+        "MD",
+        "LG",
+        "XL"
+      ],
+      "productMaterial": "Cotton",
+      "productStyle": "Vintage",
+      "productSeason": "Summer",
+      "productVat": 0.2,
+      "productShipping": 2.15,
+      "productTax": 0.1,
+      "productWeight": 0.6,
+      "productImages": [
+        "Zeal1.png",
+        "Zeal2.png",
+        "Zeal6.png",
+        "Zeal6.png"
+      ],
+      "productGallery": [
+        "Gallery1.jpg",
+        "Gallery2.jpg",
+        "Gallery3.jpg",
+        "Gallery4.jpg",
+        "Featured1.jpg",
+        "Featured2.jpg",
+        "Featured4.jpg"
+      ],
+      "productInstructions": [
+        "Lorem ipsum dolor sit amet. Lorem, ipsum.",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.",
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "id": "7",
+      "productName": "Vintage Style Tracksuit",
+      "productCategory": 3,
+      "productCollection": 3,
+      "productDescription": [
+        "Lorem ipsum doloaliquid, doloribus consectetur sint iste mollitia.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "Lorem ipsum dolor sit, amet consectetu."
+      ],
+      "productColour": "Milkot",
+      "productPrice": 55.99,
+      "sizesAvailable": [
+        "SM",
+        "MD",
+        "LG",
+        "XL"
+      ],
+      "productMaterial": "Cotton",
+      "productStyle": "Vintage",
+      "productSeason": "Summer",
+      "productVat": 0.2,
+      "productShipping": 2,
+      "productTax": 0.08,
+      "productWeight": 0.6,
+      "productImages": [
+        "Zeal1.png",
+        "Zeal2.png",
+        "Zeal6.png",
+        "Zeal6.png"
+      ],
+      "productGallery": [
+        "Gallery1.jpg",
+        "Gallery2.jpg",
+        "Gallery3.jpg",
+        "Featured2.jpg",
+        "Gallery4.jpg",
+        "Featured1.jpg",
+        "Featured4.jpg"
+      ],
+      "productInstructions": [
+        "Lorem ipsum dolor sit amet. Lorem, ipsum.",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.",
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "id": "8",
+      "productName": "Striped Crop Top",
+      "productCategory": 1,
+      "productCollection": 4,
+      "productDescription": [
+        "Lorem ipsum doloaliquid, doloribus consectetur sint iste mollitia.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "Lorem ipsum dolor sit, amet consectetu."
+      ],
+      "productColour": "Milkot",
+      "productPrice": 15.99,
+      "sizesAvailable": [
+        "SM",
+        "MD",
+        "LG",
+        "XL"
+      ],
+      "productMaterial": "Cotton",
+      "productStyle": "Vintage",
+      "productSeason": "Summer",
+      "productVat": 0.1,
+      "productShipping": 2,
+      "productTax": 0.08,
+      "productWeight": 0.6,
+      "productImages": [
+        "Zeal1.png",
+        "Zeal2.png",
+        "Zeal6.png",
+        "Zeal6.png"
+      ],
+      "productGallery": [
+        "Gallery1.jpg",
+        "Gallery2.jpg",
+        "Featured2.jpg",
+        "Gallery3.jpg",
+        "Gallery4.jpg",
+        "Featured1.jpg",
+        "Featured4.jpg"
+      ],
+      "productInstructions": [
+        "Lorem ipsum dolor sit amet. Lorem, ipsum.",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.",
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "id": "9",
+      "productName": "long Sleeve Tye & Dye",
+      "productCategory": 2,
+      "productCollection": 1,
+      "productDescription": [
+        "Lorem ipsum doloaliquid, doloribus consectetur sint iste mollitia.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "Lorem ipsum dolor sit, amet consectetu."
+      ],
+      "productColour": "Milkot",
+      "productPrice": 95.99,
+      "sizesAvailable": [
+        "SM",
+        "MD",
+        "LG",
+        "XL"
+      ],
+      "productMaterial": "Cotton",
+      "productStyle": "Vintage",
+      "productSeason": "Summer",
+      "productVat": 0.2,
+      "productShipping": 2,
+      "productTax": 0,
+      "productWeight": 0.6,
+      "productImages": [
+        "Zeal1.png",
+        "Zeal2.png",
+        "Zeal6.png",
+        "Zeal6.png"
+      ],
+      "productGallery": [
+        "Gallery1.jpg",
+        "Gallery2.jpg",
+        "Gallery3.jpg",
+        "Featured2.jpg",
+        "Gallery4.jpg",
+        "Featured1.jpg",
+        "Featured4.jpg"
+      ],
+      "productInstructions": [
+        "Lorem ipsum dolor sit amet. Lorem, ipsum.",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.",
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    }
+  ],
+  "newArrivals": [
+    {
+      "id": "1",
+      "productId": 6,
+      "arrivalDate": "2023-01-01"
+    },
+    {
+      "id": "2",
+      "productId": 5,
+      "arrivalDate": "2023-01-01"
+    },
+    {
+      "id": "3",
+      "productId": 4,
+      "arrivalDate": "2023-01-01"
+    },
+    {
+      "id": "4",
+      "productId": 3,
+      "arrivalDate": "2023-01-01"
+    },
+    {
+      "id": "5",
+      "productId": 2,
+      "arrivalDate": "2023-01-01"
+    },
+    {
+      "id": "6",
+      "productId": 1,
+      "arrivalDate": "2023-02-01"
+    }
+  ],
+  "promotions": [
+    {
+      "id": "3",
+      "productId": 1,
+      "name": "Summer Sale",
+      "description": "Discounts on summer clothing",
+      "discount": 20,
+      "startDate": "2025-06-01",
+      "endDate": "2025-06-30"
+    },
+    {
+      "id": "6",
+      "productId": 2,
+      "name": "Vintage Wear Discount",
+      "description": "10% off vintage wear",
+      "discount": 10,
+      "startDate": "2025-03-01",
+      "endDate": "2025-03-31"
+    }
+  ],
+  "cart": [
+    {
+      "id": "eeb3",
+      "productId": "1",
+      "quantity": 1,
+      "size": "SM",
+      "name": "Tye-Dye T-Shirt",
+      "price": 99.99,
+      "colour": "Tye-Dye Blue",
+      "vat": 0.2,
+      "shipping": 2,
+      "tax": 0.08,
+      "weight": 0.6,
+      "image": "Gallery3.jpg"
+    },
+    {
+      "id": "6511",
+      "productId": "1",
+      "quantity": 1,
+      "size": "MD",
+      "name": "Tye-Dye T-Shirt",
+      "price": 99.99,
+      "colour": "Tye-Dye Blue",
+      "vat": 0.2,
+      "shipping": 2,
+      "tax": 0.08,
+      "weight": 0.6,
+      "image": "Gallery3.jpg"
+    },
+    {
+      "id": "dd5c",
+      "productId": "2",
+      "quantity": 1,
+      "size": "SM"
+    },
+    {
+      "id": "bc15",
+      "productId": "6",
+      "quantity": 1,
+      "size": "SM"
+    },
+    {
+      "id": "1f26",
+      "productId": "3",
+      "quantity": 1,
+      "size": "SM"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "9",
+      "productId": 1,
+      "image": "Arrival2.jpg",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "likes": 14,
+      "imgSrc": "http://localhost:3000/src/assets/images/Arrival2.jpg"
+    },
+    {
+      "id": "8",
+      "productId": 2,
+      "image": "Arrival3.jpg",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "likes": 10
+    },
+    {
+      "id": "7",
+      "productId": 3,
+      "image": "Arrival4.jpg",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "likes": 11,
+      "imgSrc": "http://localhost:3000/src/assets/images/Arrival4.jpg"
+    },
+    {
+      "id": "6",
+      "productId": 4,
+      "image": "Gallery2.jpg",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "likes": 11,
+      "imgSrc": "http://localhost:3000/src/assets/images/Gallery2.jpg"
+    },
+    {
+      "id": "5",
+      "productId": 5,
+      "image": "Gallery3.jpg",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "likes": 11,
+      "imgSrc": "http://localhost:3000/src/assets/images/Gallery3.jpg"
+    },
+    {
+      "id": "4",
+      "productId": 6,
+      "image": "Gallery4.jpg",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "likes": 11,
+      "imgSrc": "http://localhost:3000/src/assets/images/Gallery4.jpg"
+    },
+    {
+      "id": "3",
+      "productId": 7,
+      "image": "Featured1.jpg",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "likes": 22,
+      "imgSrc": "http://localhost:3000/src/assets/images/Featured1.jpg"
+    },
+    {
+      "id": "2",
+      "productId": 8,
+      "image": "Featured2.jpg",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "likes": 11,
+      "imgSrc": "http://localhost:3000/src/assets/images/Featured2.jpg"
+    },
+    {
+      "id": "1",
+      "productId": 9,
+      "image": "Featured3.jpg",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "likes": 11,
+      "imgSrc": "http://localhost:3000/src/assets/images/Featured3.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Summer Fashion Launch",
+      "date": "June 12, 2025",
+      "location": "Seven Arts",
+      "image": "Arrival2.jpg",
+      "interested": false
+    },
+    {
+      "id": "2",
+      "title": "Vintage Designers Meeting",
+      "date": "April 18, 2025",
+      "location": "Mega Festive Hall",
+      "image": "Featured2.jpg",
+      "interested": true
+    },
+    {
+      "id": "3",
+      "title": "Winter Wear Showcase",
+      "date": "August 5, 2025",
+      "location": "Bulawayo Convention Center",
+      "image": "Gallery4.jpg",
+      "interested": false
+    }
+  ]
+}

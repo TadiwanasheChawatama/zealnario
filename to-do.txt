@@ -1,0 +1,25 @@
+sustainabilityPage [✅]
+aboutPage [✅]
+contactPage [✅]
+homePage [✅]
+Gallery [✅]
+CollectionsPage [✅]
+    -CollectionPage [✅]
+Catergories
+    -ProductsPage [✅]
+        -ProductPage [✅]
+        -NewArrivals [✅]
+shoppingPage [✅]
+    -shoppingcart [✅]
+Promotions [✅]
+Events [✅]..
+signin [✅]..
+signup [✅]..
+
+
+
+nuggets
+-work on the shop page first✅
+-use the format of the CollectionsPage for each ProductPage ✅
+-new arrivals us a newarrivals template✅
+-for Products page us zeal`s idea✅
